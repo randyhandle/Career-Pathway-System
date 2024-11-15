@@ -1,0 +1,17 @@
+.header{
+    border-bottom: 5px;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+}
+
+.logo{
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.nav{
+    color : gray;
+    cursor: pointer;
+    padding-left: 15px;
+
+}
