@@ -18,4 +18,4 @@ Navigate to backend
 Open 2 terminals, one for backend and one for frontend 
 run this command
 > npm run dev
-in both terminals
+in both terminals 
