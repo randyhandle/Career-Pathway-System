@@ -19,4 +19,3 @@ Navigate to backend
 On both terminal:    
 run this command  
 \>\> npm run dev  
-in both terminals 
